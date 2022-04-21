@@ -6,7 +6,7 @@
 I decided to learn a bit about webdevelopment (vue and node to be specific, after I already familiarised myself with basic HTML/CSS/Javascript). 
 Because I learn the best, when I am working on something that might be actually usefull, I decided to code a little spendings tracker.
 Since this is my first "real project" with these technologies, there are probably a ton of beginner mistakes and things you shouldnt be doing in general,
-but since this app was mainly build for learning purposes, I am quite happy with the outcome and will probably continue teaching myself about webdev. 
+but since this app was mainly build for learning purposes, I am quite happy with the outcome.
 To add to that, all the terminology I am using in this readme is based on what I learned while coding this project, 
 so if I use something in the wrong context, I just didnt know any better at the time of writing this.
 
